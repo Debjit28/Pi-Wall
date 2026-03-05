@@ -1,0 +1,11 @@
+{
+  "blacklist": [
+    "doubleclick.net",
+    "googlesyndication.com",
+    "adservice.google.com",
+    "ads.youtube.com",
+    "tracking.example.com",
+    "malware-site.com",
+    "facebook.com"
+  ]
+}
